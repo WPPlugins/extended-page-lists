@@ -1,0 +1,198 @@
+# Translation of the WordPress plugin Extended Page Lists 0.9 by GrandSlambert.
+# Copyright (C) 2011 GrandSlambert
+# This file is distributed under the same license as the Extended Page Lists package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Extended Page Lists 0.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/extended-page-lists\n"
+"POT-Creation-Date: 2011-01-22 16:07-0600\n"
+"PO-Revision-Date: 2011-02-14 19:18+0100\n"
+"Last-Translator: Connie Müller-Gödecke <connie.mueller-goedecke@webdeerns.de>\n"
+"Language-Team: Connie Müller-Gödecke <cmg@webdeerns.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. #-#-#-#-#  extended-page-lists.pot (Extended Page Lists 0.9)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: extended-page-lists.php:49
+msgid "Extended Page Lists"
+msgstr "Erweiterte Seiten-Liste"
+
+#: extended-page-lists.php:123
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: extended-page-lists.php:150
+msgid "Pages"
+msgstr "Seiten"
+
+#: extended-page-lists.php:474
+msgid "There was an error getting the list. Try again later."
+msgstr "Beim Erstellen der Liste trat ein Fehler auf. Bitte versuchen Sie es später noch einmal."
+
+#: extended-page-lists.php:497
+msgid "Contributed"
+msgstr "Beigetragen"
+
+#: options-panel.php:18
+#: options-panel.php:24
+msgid "Default Settings"
+msgstr "Standard-Einstellungen"
+
+#: options-panel.php:29
+msgid "Default Link Target"
+msgstr "Standard-Link-Ziel"
+
+#: options-panel.php:39
+msgid "Default Widget Target"
+msgstr "Standard-Widget-Ziel"
+
+#: options-panel.php:47
+msgid "Default Excerpt Length"
+msgstr "Standard-Länge des Text-Auszugs"
+
+#: options-panel.php:51
+msgid "Default More Text"
+msgstr "Standard-Text für \"Lesen Sie weiter...\""
+
+#: options-panel.php:56
+msgid "Link to Page?"
+msgstr "Link zur Seite?"
+
+#: options-panel.php:67
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: options-panel.php:75
+msgid "About"
+msgstr "Über das hier"
+
+#: options-panel.php:77
+msgid "This plugin allows you to build customized page lists on your posts and pages using simple short codes. A widget is included to display page navigation links in your sidebars with a variety of options."
+msgstr "Mit diesem Plugin können Sie Seitenliste konfigurieren und in Ihren Beiträgen und au fden Seiten mit ShortCode einbinden. Auch ein Widget ist dabei, um Seiten-Navigations-Listen in Ihren Seitenleisten anzuzeigen, mit verschiedensten Optionen."
+
+#: options-panel.php:78
+msgid "You are using"
+msgstr "Sie setzen ein"
+
+#: options-panel.php:82
+msgid "Shortcode Usage"
+msgstr "Short-Code-Einbindung"
+
+#: options-panel.php:88
+msgid "Recent Contributors"
+msgstr "Aktuelle Beiträger (Mitarbeiter)"
+
+#: options-panel.php:90
+msgid "GrandSlambert would like to thank these wonderful contributors to this plugin!"
+msgstr "GrandSlambert bedankt sich bei diesen wunderbaren Tippgebern und Mitarbeitern"
+
+#: options-panel.php:97
+msgid "Credits"
+msgstr "Danksagung"
+
+#: options-panel.php:100
+#, php-format
+msgid "Thank you for trying the %1$s plugin - I hope you find it useful. For the latest updates on this plugin, visit the %2$s. If you have any questions or problems with this plugin, please use our %3$s. As always, any comments or suggestions for improvements are welcome!"
+msgstr "Danke, daß Sie das %1$-Plugin einsetzen. Ich hoffe, es ist nützlich für Sie. Aktuelle Informationen und Updates finden Sie immer auf der Seite %2$s. Haben Sie Fragen zu oder Probleme mit diesem Plugin, nutzen Sie bitte %3$s. Vorschläge für Verbesserungen oder Kommentare sind immer willkommen!"
+
+#: options-panel.php:102
+msgid "official site"
+msgstr "Offizielle Seite"
+
+#: options-panel.php:103
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: options-panel.php:109
+#, php-format
+msgid "This plugin is &copy;2009-%1$d by %2$s and is released under the %3$s."
+msgstr "Copyright für dieses Plugin:  &copy;2009-%1$d von %2$s und wurde unter der  %3$s veröffentlicht."
+
+#: options-panel.php:112
+msgid "GNU General Public License"
+msgstr "GNU General Public License"
+
+#: options-panel.php:119
+msgid "Donate"
+msgstr "Spenden Sie"
+
+#: widget-form.php:17
+msgid "Widget Title:<br /><small>Leave blank for no title.</small>"
+msgstr "Widget Titel: <br /><small>Leer lassen, wenn kein Titel gewünscht ist.</small>"
+
+#: widget-form.php:23
+msgid "Widget Type"
+msgstr "Art des Widgets"
+
+#: widget-form.php:26
+msgid "All Pages"
+msgstr "Alle Seiten"
+
+#: widget-form.php:27
+msgid "Top Level Only"
+msgstr "Nur Ober-Seiten"
+
+#: widget-form.php:28
+msgid "Sub Pages Only"
+msgstr "Nur Unter-Seiten"
+
+#: widget-form.php:29
+msgid "Top Level Sub Pages Only"
+msgstr "Nur Unterseiten der obersten Ebene"
+
+#: widget-form.php:30
+msgid "Sub Pages or Top Level Pages"
+msgstr "Unterseiten oder Top-Level-Seiten"
+
+#: widget-form.php:31
+msgid "Selected Pages Only"
+msgstr "Nur ausgewählte Seiten"
+
+#: widget-form.php:36
+msgid "Link Target:"
+msgstr "Link-Ziel:"
+
+#: widget-form.php:44
+msgid "Page Selection"
+msgstr "Seiten-Auswahl"
+
+#: widget-form.php:47
+msgid "Exclude Pages:"
+msgstr "Seiten ausschließen:"
+
+#: widget-form.php:56
+msgid "Selected Pages:"
+msgstr "Ausgewählte Seiten:"
+
+#: widget.php:24
+msgid "Customized page lists widget. By GrandSlambert."
+msgstr "Konfigurierbares Seiten-Listen-Widget. Von GradSlambert."
+
+#: widget.php:25
+msgid "Extended Page List"
+msgstr "Erweiterte Seiten-Liste"
+
+#. Plugin URI of the plugin/theme
+msgid "http://extendedpagelists.grandslambert.com"
+msgstr "http://extendedpagelists.grandslambert.com"
+
+#. Description of the plugin/theme
+msgid "Add custom configured page lists to your posts, pages and sidebars."
+msgstr "Fügen Sie selbstkonfigurierte Seitenlisten auf Ihren Posts, Seiten und Sidebars ein."
+
+#. Author of the plugin/theme
+msgid "GrandSlambert"
+msgstr "GrandSlambert"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.grandslambert.com/"
+msgstr "http://wordpress.grandslambert.com/"
+

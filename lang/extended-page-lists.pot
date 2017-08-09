@@ -1,0 +1,203 @@
+# Translation of the WordPress plugin Extended Page Lists 0.9.2 by grandslambert.
+# Copyright (C) 2011 grandslambert
+# This file is distributed under the same license as the Extended Page Lists package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Extended Page Lists 0.9.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/extended-page-lists\n"
+"POT-Creation-Date: 2011-02-19 17:29-0600\n"
+"PO-Revision-Date: 2011-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  extended-page-lists.pot (Extended Page Lists 0.9.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: extended-page-lists.php:49
+msgid "Extended Page Lists"
+msgstr ""
+
+#: extended-page-lists.php:109
+msgid "Settings"
+msgstr ""
+
+#: extended-page-lists.php:136
+msgid "Pages"
+msgstr ""
+
+#: extended-page-lists.php:453
+msgid "There was an error getting the list. Try again later."
+msgstr ""
+
+#: extended-page-lists.php:476
+msgid "Contributed"
+msgstr ""
+
+#: options-panel.php:18 options-panel.php:24
+msgid "Default Settings"
+msgstr ""
+
+#: options-panel.php:29
+msgid "Default Link Target"
+msgstr ""
+
+#: options-panel.php:39
+msgid "Default Widget Target"
+msgstr ""
+
+#: options-panel.php:47
+msgid "Default Excerpt Length"
+msgstr ""
+
+#: options-panel.php:51
+msgid "Default More Text"
+msgstr ""
+
+#: options-panel.php:56
+msgid "Link to Page?"
+msgstr ""
+
+#: options-panel.php:67
+msgid "Save Settings"
+msgstr ""
+
+#: options-panel.php:75
+msgid "About"
+msgstr ""
+
+#: options-panel.php:77
+msgid ""
+"This plugin allows you to build customized page lists on your posts and "
+"pages using simple short codes. A widget is included to display page "
+"navigation links in your sidebars with a variety of options."
+msgstr ""
+
+#: options-panel.php:78
+msgid "You are using"
+msgstr ""
+
+#: options-panel.php:82
+msgid "Shortcode Usage"
+msgstr ""
+
+#: options-panel.php:88
+msgid "Recent Contributors"
+msgstr ""
+
+#: options-panel.php:90
+msgid ""
+"GrandSlambert would like to thank these wonderful contributors to this "
+"plugin!"
+msgstr ""
+
+#: options-panel.php:97
+msgid "Credits"
+msgstr ""
+
+#: options-panel.php:100
+#, php-format
+msgid ""
+"Thank you for trying the %1$s plugin - I hope you find it useful. For the "
+"latest updates on this plugin, visit the %2$s. If you have any questions or "
+"problems with this plugin, please use our %3$s. As always, any comments or "
+"suggestions for improvements are welcome!"
+msgstr ""
+
+#: options-panel.php:102
+msgid "official site"
+msgstr ""
+
+#: options-panel.php:103
+msgid "Support Forum"
+msgstr ""
+
+#: options-panel.php:109
+#, php-format
+msgid "This plugin is &copy;2009-%1$d by %2$s and is released under the %3$s."
+msgstr ""
+
+#: options-panel.php:112
+msgid "GNU General Public License"
+msgstr ""
+
+#: options-panel.php:119
+msgid "Donate"
+msgstr ""
+
+#: widget-form.php:17
+msgid "Widget Title:<br /><small>Leave blank for no title.</small>"
+msgstr ""
+
+#: widget-form.php:23
+msgid "Widget Type"
+msgstr ""
+
+#: widget-form.php:26
+msgid "All Pages"
+msgstr ""
+
+#: widget-form.php:27
+msgid "Top Level Only"
+msgstr ""
+
+#: widget-form.php:28
+msgid "Sub Pages Only"
+msgstr ""
+
+#: widget-form.php:29
+msgid "Top Level Sub Pages Only"
+msgstr ""
+
+#: widget-form.php:30
+msgid "Sub Pages or Top Level Pages"
+msgstr ""
+
+#: widget-form.php:31
+msgid "Selected Pages Only"
+msgstr ""
+
+#: widget-form.php:36
+msgid "Link Target:"
+msgstr ""
+
+#: widget-form.php:44
+msgid "Page Selection"
+msgstr ""
+
+#: widget-form.php:47
+msgid "Exclude Pages:"
+msgstr ""
+
+#: widget-form.php:56
+msgid "Selected Pages:"
+msgstr ""
+
+#: widget.php:24
+msgid "Customized page lists widget. By GrandSlambert."
+msgstr ""
+
+#: widget.php:25
+msgid "Extended Page List"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://plugins.grandslambert.com/plugins/extended-page-lists.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add custom configured page lists to your posts, pages and sidebars."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "grandslambert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.grandslambert.com/"
+msgstr ""
